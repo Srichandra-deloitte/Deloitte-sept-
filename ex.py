@@ -1,6 +1,7 @@
 def greeting():
+  ''' A program to find the given number is prime or not'''
   name = input("Please enter your name")
-  print("Hi {} , Deloitte likes to extend a heart warming welcome and geertings!!". format(name))
+  print("Hello {} , Deloitte likes to extend a heart warming welcome and greetings!!". format(name))
   
 greeting()
 
